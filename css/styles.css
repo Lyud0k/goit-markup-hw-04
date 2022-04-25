@@ -367,9 +367,9 @@ margin-bottom: 20px;
     justify-content: center;
     align-items: center;
 }
-/* .footer-icon-cl:hover, .footer-icon-cl:focus{
+.footer-icon-cl:hover, .footer-icon-cl:focus{
     background-color: #2196F3;
-} */
+} 
 .footer-icon-ram{
     fill: #ffffff;
 }
